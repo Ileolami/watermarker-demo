@@ -1,4 +1,4 @@
-import ImageWatermarker from '@/app/components/imageWatermarker'
+import ImageWatermarker from '@/app/components/function'
 export const runtime = "edge";
 
 
